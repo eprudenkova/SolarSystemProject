@@ -11,5 +11,6 @@ public class Main {
         Sun sun = new Sun();
         sun.radius = "696,340 km";
         sun.temperature = "5,505°C";
+        sun.color = "red";
     }
 }
