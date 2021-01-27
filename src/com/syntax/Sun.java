@@ -4,4 +4,5 @@ public class Sun {
 
     String radius;
     String temperature;
+    String color;
 }
